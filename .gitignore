@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Flask
+instance/
+.webassets-cache
+
+# Project Specific
+uploads/*
+!uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.log
+anonykit_audit.log
+rbac_config.json
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Documentation guides (exclude from GitHub)
+FRONTEND_DEMO_GUIDE.md
+FRONTEND_FIXES_SUMMARY.md
+FRONTEND_TEST_QUICK_FIX.md
+TESTING_GUIDE.md
+TEST_RESULTS_SUMMARY.md
+QUICK_TEST_REFERENCE.md
+PROJECT_COMPLETION_SUMMARY.md
+GITHUB_UPLOAD_GUIDE.md
+GITHUB_QUICK_REFERENCE.md
+GITHUB_READY.md
+report.md
+*.pdf
+
+# Large files
+*.csv
+!test_data.csv
+!sample_data.csv
+
+# Sensitive
+*.key
+*.pem
+*.env
+.env
+secrets.json
