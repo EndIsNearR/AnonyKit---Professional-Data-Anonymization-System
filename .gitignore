@@ -55,6 +55,15 @@ outputs/*
 anonykit_audit.log
 rbac_config.json
 
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+terraform.tfvars
+infra/terraform.tfvars
+
 # Temporary files
 *.tmp
 *.bak

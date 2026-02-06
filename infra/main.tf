@@ -37,6 +37,8 @@ resource "azurerm_linux_web_app" "main" {
   tags                = var.tags
 
   site_config {
+    always_on = false
+
     application_stack {
       python_version = var.python_version
     }
