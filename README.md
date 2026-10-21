@@ -24,13 +24,18 @@ A comprehensive data anonymization system implementing industry-standard privacy
 ## 📸 Screenshots
 
 ### Web Dashboard
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Upload+your+screenshots+here)
+![Dashboard]
+
+![alt text](image.png)
 
 ### Anonymization Results
-![Results](https://via.placeholder.com/800x400/764ba2/ffffff?text=Privacy+Metrics+%26+Charts)
+![Results]
+![alt text](image-1.png)
 
 ### Audit Logs
-![Audit Logs](https://via.placeholder.com/800x400/28a745/ffffff?text=Complete+Audit+Trail)
+![Audit Logs]
+
+![alt text](image-2.png)
 
 > **Note**: Replace placeholder images with actual screenshots after deployment
 
