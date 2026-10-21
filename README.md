@@ -37,7 +37,7 @@ A comprehensive data anonymization system implementing industry-standard privacy
 
 ![alt text](image-2.png)
 
-> **Note**: Replace placeholder images with actual screenshots after deployment
+
 
 ---
 
